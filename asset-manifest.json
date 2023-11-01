@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Home-Products/static/css/main.fd06e577.css",
+    "main.js": "/Home-Products/static/js/main.0b46e8e8.js",
+    "static/media/shopping_cart.png": "/Home-Products/static/media/shopping_cart.9bdd8040b334d31946f4.png",
+    "static/media/correct.png": "/Home-Products/static/media/correct.a8d20cd48e2e0d022083.png",
+    "static/media/loader.svg": "/Home-Products/static/media/loader.9199439f44c3cf8c62267067e36cb27d.svg",
+    "index.html": "/Home-Products/index.html",
+    "main.fd06e577.css.map": "/Home-Products/static/css/main.fd06e577.css.map",
+    "main.0b46e8e8.js.map": "/Home-Products/static/js/main.0b46e8e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd06e577.css",
+    "static/js/main.0b46e8e8.js"
+  ]
+}
